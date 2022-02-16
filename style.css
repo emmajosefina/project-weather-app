@@ -3,7 +3,6 @@
   --primary-color: black;
   --secondary-color: white;
 }
-
 body {
   margin: 0;
   padding: 0;
@@ -12,34 +11,27 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: white;
 }
-
 /* dailyWeather styling */
-
 .main-icon {
   margin-left: 70vw;
   width: 40%;
 }
-
 h1 {
   color: white;
   font-size: 4.5em;
   margin-top: 1vh;
 }
-
 h2 {
   color: white;
   font-size: 2em;
 }
-
 h3 {
   margin: 0;
   color: white;
 }
-
 .weather-container {
   /* Maybe if we need flex?*/
 }
-
 .dailyWeather {
   height: 50vh;
   width: 100vw;
