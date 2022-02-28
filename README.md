@@ -8,8 +8,6 @@ We split into to teams, one working on the script and the other one on the styli
 
 We orginized the project by using figma, and design the app following the design option 1.
 
-We still have the problem in mobile landscape were the data turns to "invalid data".
-
 ## View it live
 
 https://project-weather-app-foxes.netlify.app/
